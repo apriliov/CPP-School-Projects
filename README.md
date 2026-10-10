@@ -37,35 +37,6 @@ Each program was created as part of my learning journey in programming and Infor
 * Arrays and Searching
 * Basic Problem Solving
 
-## Requirements
-
-To compile and run these programs, you need:
-
-* A C++ compiler, such as GCC or Clang
-* A code editor or IDE of your choice
-
-## How to Compile and Run
-
-Compile a C++ source file using GCC:
-
-```bash
-g++ -x c++ "Hitung Rata-Rata.cxx" -o average
-```
-
-Run the program on Linux or macOS:
-
-```bash
-./average
-```
-
-On Windows:
-
-```bash
-average.exe
-```
-
-Replace the filename and output name with the program you want to run.
-
 ## Purpose
 
 This repository was created for educational purposes to organize my school assignments, practice basic programming concepts, and document my progress in learning C++.
